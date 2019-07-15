@@ -23,4 +23,5 @@ Royal News is [MIT licensed](./LICENSE).
 
 ---
 
-***This App uses the 💙 [News API](https://newsapi.org) 💙***
+***This App tries to attempt the following question and plus more added functionality 💙 [ALC 4.0: Phase 1 Challenge- Android
+](https://docs.google.com/document/d/1GsTwCCmG9krpzt0LsSpk6rHzGFfmTxrqLhDWO6veQ2A/preview) 💙***
