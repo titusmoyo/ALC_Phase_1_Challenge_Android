@@ -3,7 +3,7 @@
 #myALC Journey &middot; [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/msal4/royal_news/compare?expand=1)
 
 *The source code to **How I solved the ALC 4.0: Phase 1 Challenge- Android
-** article on [NimreyCode](https://code.nimrey.me/how-to-build-a-news-app-with-react-native/), [medium](https://medium.com/@msal/create-a-news-app-using-react-native-ced249263627), and [dev.to](https://dev.to/msal4/how-to-build-a-news-app-with-react-native-4ifd)*.
+** view the [ALC Challenge](https://docs.google.com/document/d/1GsTwCCmG9krpzt0LsSpk6rHzGFfmTxrqLhDWO6veQ2A/preview),*.
 
 * Requirements: [Android Studio](https://developer.android.com/studio/)[<br />
 * Download repo and import to android studio<br />
