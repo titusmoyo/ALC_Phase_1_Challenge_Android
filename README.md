@@ -10,7 +10,7 @@
 * Alternatively  download app -> app->release->app-release.apk to access the apk and run on android device
 * **Feel free to fork it😄.**<br /><br />
 
-![1_Home](https://user-images.githubusercontent.com/37632283/61205186-4a8e3280-a6e7-11e9-84f0-6139cbd2829b.jpg<br /><br />
+![Home Activity](https://user-images.githubusercontent.com/37632283/61205186-4a8e3280-a6e7-11e9-84f0-6139cbd2829b.jpg)<br /><br />
 
 ---
 
