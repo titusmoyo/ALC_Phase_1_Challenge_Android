@@ -12,6 +12,7 @@
 
 ![Home Activity](https://user-images.githubusercontent.com/37632283/61205186-4a8e3280-a6e7-11e9-84f0-6139cbd2829b.jpg)
 ![2_myProfile](https://user-images.githubusercontent.com/37632283/61205219-642f7a00-a6e7-11e9-859a-a5ead54e111c.jpg)
+![3_About](https://user-images.githubusercontent.com/37632283/61205278-8628fc80-a6e7-11e9-9ed7-eab38326d943.jpg)
 
 ---
 
