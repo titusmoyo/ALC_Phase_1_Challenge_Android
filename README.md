@@ -6,8 +6,8 @@
 ** view the [ALC Challenge](https://docs.google.com/document/d/1GsTwCCmG9krpzt0LsSpk6rHzGFfmTxrqLhDWO6veQ2A/preview)*.
 
 * Requirements: [Android Studio](https://developer.android.com/studio/)[<br />
-* Download repo and import to android studio<br />
-* Alternatively  download app -> app->release->app-release.apk to access the apk and run on android device
+* Download repo/clone and import to android studio<br />
+* Alternatively  download/clone repo -> app->release->app-release.apk to access the apk and run on android device
 * **Feel free to fork it😄.**<br /><br />
 
 ![Home Activity](https://user-images.githubusercontent.com/37632283/61205186-4a8e3280-a6e7-11e9-84f0-6139cbd2829b.jpg)
